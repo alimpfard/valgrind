@@ -5418,6 +5418,8 @@ AC_CONFIG_FILES([
    callgrind/callgrind_annotate
    callgrind/callgrind_control
    callgrind/tests/Makefile
+   serenity_profiler/Makefile
+   serenity_profiler/tests/Makefile
    helgrind/Makefile
    helgrind/tests/Makefile
    drd/Makefile

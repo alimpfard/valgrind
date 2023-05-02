@@ -12,6 +12,7 @@ TOOLS = \
 		massif \
 		dhat \
 		lackey \
+		serenity_profiler \
 		none
 
 EXP_TOOLS = \
